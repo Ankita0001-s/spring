@@ -1,0 +1,10 @@
+/example13/.idea/.gitignore
+/example13/.idea/compiler.xml
+/example13/.idea/encodings.xml
+/example13/target/classes/com/example/main/Example13.class
+/example13/.idea/jarRepositories.xml
+/example13/.idea/misc.xml
+/example13/target/classes/com/example/beans/Person.class
+/example13/target/classes/com/example/config/ProjectConfig.class
+/example13/.idea/vcs.xml
+/example13/target/classes/com/example/beans/Vehicle.class
